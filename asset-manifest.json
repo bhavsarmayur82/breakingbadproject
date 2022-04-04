@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breakingbadproject/static/css/main.1aad763b.css",
+    "main.js": "/breakingbadproject/static/js/main.ba6c2ee4.js",
+    "static/media/spinner.gif": "/breakingbadproject/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/logo.png": "/breakingbadproject/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/breakingbadproject/index.html",
+    "main.1aad763b.css.map": "/breakingbadproject/static/css/main.1aad763b.css.map",
+    "main.ba6c2ee4.js.map": "/breakingbadproject/static/js/main.ba6c2ee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aad763b.css",
+    "static/js/main.ba6c2ee4.js"
+  ]
+}
